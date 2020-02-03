@@ -1,0 +1,9 @@
+.botonFlex {
+    display: flex;
+    justify-content: center;   
+}
+
+.botonMargin {
+    margin-bottom: 50px;
+}
+

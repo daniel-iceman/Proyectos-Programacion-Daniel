@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from './Card'
+
 function ExerciseList(props){
     // Aqui tomaremos la información del archivo de "Exercise.js" pero 
     // como no necesitamos que retorne el estado sino solo las props 
